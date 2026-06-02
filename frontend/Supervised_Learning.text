@@ -1,0 +1,22 @@
+In reality, supervised learning is just:
+
+“Learning a pattern from past examples so the machine can predict future outputs.”
+
+That’s it.
+
+The “supervised” part means:
+
+the machine is trained using data that already has correct answers (labels).
+
+Think like this:
+
+Input	Correct Output
+House size	House price
+Email text	Spam or not spam
+Student hours studied	Exam score
+Medical scan	Cancer or no cancer
+The model studies these examples and learns patterns.
+Then later:
+you give NEW input
+it predicts output.
+That’s supervised learning in reality.

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title description">
+  <title id="title">Food donation placeholder</title>
+  <desc id="description">A simple bowl and leaf illustration for donations without a photo.</desc>
+  <rect width="640" height="360" fill="#f1f5f9"/>
+  <circle cx="320" cy="176" r="108" fill="#dcfce7"/>
+  <path d="M205 183h230c-8 76-50 114-115 114s-107-38-115-114Z" fill="#16a34a"/>
+  <path d="M235 183c19-49 53-74 102-74 44 0 76 25 94 74Z" fill="#facc15"/>
+  <path d="M320 177c11-51 35-88 72-111 2 42-18 79-72 111Z" fill="#15803d"/>
+  <path d="M321 176c-29-35-60-54-94-57 16 42 47 61 94 57Z" fill="#4ade80"/>
+  <rect x="244" y="298" width="152" height="13" rx="6" fill="#166534"/>
+</svg>
