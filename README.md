@@ -126,3 +126,37 @@ Food donations are prioritized using AI and matched with the most suitable NGO b
 Nikhil VS
 
 Major Project – FeedMap AI
+
+
+## Screenshots
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+### Donor Dashboard
+
+![Donor Dashboard](screenshots/donor-dashboard1.png)
+![Donor Dashboard](screenshots/donor-dashboard2.png)
+![Donor Dashboard](screenshots/donor-dashboard3.png)
+
+### NGO Dashboard
+
+![NGO Dashboard](screenshots/ngo-dashboard1.png)
+![NGO Dashboard](screenshots/ngo-dashboard2.png)
+
+### Delivery Dashboard
+
+![Delivery Dashboard](screenshots/delivery-dashboard1.png)
+![Delivery Dashboard](screenshots/delivery-dashboard2.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard1.png)
+![Admin Dashboard](screenshots/admin-dashboard2.png)
+![Admin Dashboard](screenshots/admin-dashboard3.png)
+
+### Analytics Dashboard
+
+![Analytics Dashboard](screenshots/analytics-dashboard1.png)
+![Analytics Dashboard](screenshots/analytics-dashboard2.png)
