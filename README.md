@@ -4,7 +4,7 @@
 
 FeedMap AI is an AI-powered food redistribution platform designed to reduce food wastage by connecting food donors, NGOs, delivery partners, and administrators through a centralized intelligent system.
 
-The platform uses AI-based food prioritization and NGO recommendation to ensure that food reaches the right beneficiaries before expiry.
+The platform uses AI-based food prioritization and NGO recommendations to ensure that food reaches the right beneficiaries before expiry.
 
 ---
 
